@@ -2,7 +2,6 @@
 // S M A L L  S H E L L
 // smallshell.c
 // CS 344
-// Rebecca Kuensting
 // May 23, 2017
 //*******************************************************
 
